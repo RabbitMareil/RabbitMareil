@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RabbitMareil
-- 👀 I’m interested in Coding, Algorithms, Artificial Intelligence.
+- 👀 I’m interested in Coding, Computer Architecture and System Security.
 - 🌱 I’m currently learning Automatic Controlling.
 - 📫 How to reach me : My mail serieuxmareil@gmail.com
 
